@@ -1,0 +1,221 @@
+employee_id,laptop_model,manufacturer
+1001,lenovo,lenovo
+1002,macbook air,apple
+1003,hp,hp
+1004,macbook pro,apple
+1005,lenovo,lenovo
+1006,dell,dELL
+1007,macbook air,apple
+1008,macbook air,apple
+1009,dell,dELL
+1010,macbook air,apple
+1011,macbook air,apple
+1012,dell,dELL
+1013,lenovo,lenovo
+1014,hp,hp
+1015,lenovo,lenovo
+1016,macbook pro,apple
+1017,macbook air,apple
+1018,lenovo,lenovo
+1019,dell,dELL
+1020,lenovo,lenovo
+1021,lenovo,lenovo
+1022,lenovo,lenovo
+1023,lenovo,lenovo
+1024,lenovo,lenovo
+1025,macbook pro,apple
+1026,lenovo,lenovo
+1027,macbook air,apple
+1028,macbook pro,apple
+1029,hp,hp
+1030,lenovo,lenovo
+1031,dell,dELL
+1032,macbook pro,apple
+1033,dell,dELL
+1034,lenovo,lenovo
+1035,hp,hp
+1036,lenovo,lenovo
+1037,lenovo,lenovo
+1038,macbook pro,apple
+1039,hp,hp
+1040,macbook air,apple
+1041,macbook pro,apple
+1042,macbook air,apple
+1043,dell,dELL
+1044,dell,dELL
+1045,macbook air,apple
+1046,dell,dELL
+1047,macbook pro,apple
+1048,macbook air,apple
+1049,lenovo,lenovo
+1050,macbook air,apple
+1051,macbook pro,apple
+1052,macbook air,apple
+1053,dell,dELL
+1054,macbook air,apple
+1055,hp,hp
+1056,lenovo,lenovo
+1057,macbook air,apple
+1058,macbook pro,apple
+1059,hp,hp
+1060,hp,hp
+1061,lenovo,lenovo
+1062,macbook air,apple
+1063,macbook pro,apple
+1064,macbook air,apple
+1065,lenovo,lenovo
+1066,macbook air,apple
+1067,dell,dELL
+1068,dell,dELL
+1069,hp,hp
+1070,lenovo,lenovo
+1071,hp,hp
+1072,macbook air,apple
+1073,macbook air,apple
+1074,dell,dELL
+1075,macbook air,apple
+1076,dell,dELL
+1077,dell,dELL
+1078,macbook pro,apple
+1079,macbook air,apple
+1080,macbook pro,apple
+1081,hp,hp
+1082,macbook air,apple
+1083,lenovo,lenovo
+1084,macbook pro,apple
+1085,hp,hp
+1086,macbook air,apple
+1087,macbook pro,apple
+1088,hp,hp
+1089,lenovo,lenovo
+1090,lenovo,lenovo
+1091,macbook pro,apple
+1092,macbook air,apple
+1093,macbook air,apple
+1094,macbook air,apple
+1095,macbook pro,apple
+1096,macbook pro,apple
+1097,hp,hp
+1098,macbook air,apple
+1099,hp,hp
+1100,macbook pro,apple
+1101,macbook pro,apple
+1102,macbook pro,apple
+1103,macbook pro,apple
+1104,dell,dELL
+1105,hp,hp
+1106,lenovo,lenovo
+1107,lenovo,lenovo
+1108,lenovo,lenovo
+1109,macbook air,apple
+1110,macbook pro,apple
+1111,macbook pro,apple
+1112,macbook pro,apple
+1113,lenovo,lenovo
+1114,dell,dELL
+1115,dell,dELL
+1116,macbook air,apple
+1117,lenovo,lenovo
+1118,macbook pro,apple
+1119,dell,dELL
+1120,lenovo,lenovo
+1121,macbook air,apple
+1122,macbook pro,apple
+1123,hp,hp
+1124,macbook air,apple
+1125,macbook pro,apple
+1126,dell,dELL
+1127,macbook pro,apple
+1128,macbook air,apple
+1129,dell,dELL
+1130,macbook pro,apple
+1131,macbook air,apple
+1132,macbook pro,apple
+1133,lenovo,lenovo
+1134,macbook pro,apple
+1135,dell,dELL
+1136,lenovo,lenovo
+1137,dell,dELL
+1138,hp,hp
+1139,lenovo,lenovo
+1140,hp,hp
+1141,macbook air,apple
+1142,dell,dELL
+1143,dell,dELL
+1144,lenovo,lenovo
+1145,hp,hp
+1146,macbook pro,apple
+1147,macbook air,apple
+1148,macbook pro,apple
+1149,lenovo,lenovo
+1150,macbook air,apple
+1151,macbook pro,apple
+1152,lenovo,lenovo
+1153,dell,dELL
+1154,macbook pro,apple
+1155,hp,hp
+1156,dell,dELL
+1157,macbook pro,apple
+1158,hp,hp
+1159,hp,hp
+1160,lenovo,lenovo
+1161,dell,dELL
+1162,hp,hp
+1163,macbook air,apple
+1164,dell,dELL
+1165,dell,dELL
+1166,macbook air,apple
+1167,lenovo,lenovo
+1168,hp,hp
+1169,hp,hp
+1170,lenovo,lenovo
+1171,hp,hp
+1172,macbook pro,apple
+1173,macbook air,apple
+1174,macbook air,apple
+1175,macbook pro,apple
+1176,hp,hp
+1177,hp,hp
+1178,macbook pro,apple
+1179,macbook air,apple
+1180,macbook air,apple
+1181,hp,hp
+1182,dell,dELL
+1183,macbook pro,apple
+1184,macbook pro,apple
+1185,macbook pro,apple
+1186,hp,hp
+1187,macbook pro,apple
+1188,lenovo,lenovo
+1189,lenovo,lenovo
+1190,lenovo,lenovo
+1191,lenovo,lenovo
+1192,lenovo,lenovo
+1193,dell,dELL
+1194,dell,dELL
+1195,macbook pro,apple
+1196,hp,hp
+1197,macbook pro,apple
+1198,macbook air,apple
+1199,macbook pro,apple
+1200,lenovo,lenovo
+1201,macbook air,apple
+1202,macbook air,apple
+1203,macbook air,apple
+1204,macbook air,apple
+1205,macbook air,apple
+1206,macbook pro,apple
+1207,macbook pro,apple
+1208,dell,dELL
+1209,lenovo,lenovo
+1210,macbook air,apple
+1211,dell,dELL
+1212,lenovo,lenovo
+1213,macbook air,apple
+1214,macbook air,apple
+1215,macbook pro,apple
+1216,hp,hp
+1217,dell,dELL
+1218,macbook air,apple
+1219,macbook pro,apple
+1220,macbook air,apple
